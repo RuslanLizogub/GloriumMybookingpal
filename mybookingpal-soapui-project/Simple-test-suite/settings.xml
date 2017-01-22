@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="e9eb844d-34f2-4395-ac1b-6f7f3587f3cb" name="Simple test suite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="e9eb844d-34f2-4395-ac1b-6f7f3587f3cbfileName">Simple-test-suite</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties><con:property><con:name>propduct_id</con:name><con:value>1234588489</con:value></con:property><con:property><con:name>quote</con:name><con:value>700</con:value></con:property></con:properties><con:reportParameters/></con:testSuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="c7113f96-1114-431d-8303-1ac2bc1da900" activeEnvironment="Default" name="mybookingpal" resourceRoot="" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="c7113f96-1114-431d-8303-1ac2bc1da900fileName">mybookingpal-soapui-project</con:setting></con:settings><con:requirements/><con:properties/><con:wssContainer/><con:databaseConnectionContainer/><con:oAuth2ProfileContainer/></con:soapui-project>
